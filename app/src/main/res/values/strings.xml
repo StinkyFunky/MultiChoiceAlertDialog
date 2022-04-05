@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultiChoice Alert Dialog</string>
+    <string name="btn_show">Show Multi Choice Alert Dialog</string>
+    <string name="description">Preferred colors</string>
+</resources>
